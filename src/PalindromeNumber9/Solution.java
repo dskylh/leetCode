@@ -1,6 +1,6 @@
 package PalindromeNumber9;
 
-public class PalindromeNumber {
+public class Solution {
     public boolean isPalindrome(int x) {
         int reverse = 0;
         int num = x;

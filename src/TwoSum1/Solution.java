@@ -1,6 +1,6 @@
 package TwoSum1;
 
-public class TwoSum {
+public class Solution {
 
     public int[] twoSum(int[] nums, int target) {
         int[] solution = {0, 0};

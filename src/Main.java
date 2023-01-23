@@ -1,8 +1,8 @@
-import CheckIfPangram1832.CheckIfPangram;
+import CheckIfPangram1832.Solution;
 public class Main {
     public static void main(String[] args) {
-        CheckIfPangram checkIfPangram = new CheckIfPangram();
-        boolean result = checkIfPangram.checkIfPangram("thequickbrownfoxjumpsoverthelazydog");
+        Solution solution = new Solution();
+        boolean result = solution.checkIfPangram("thequickbrownfoxjumpsoverthelazydog");
         System.out.println(result);
 
     }
