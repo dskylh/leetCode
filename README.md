@@ -8,3 +8,4 @@ For future reference and storing the solutions to the problems that i have solve
 2. [1. Two Sum](https://leetcode.com/problems/two-sum/)
 3. [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 4. [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/)
+5. [344. Reverse String](https://leetcode.com/problems/reverse-string/)
