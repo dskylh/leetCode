@@ -10,3 +10,4 @@ For future reference and storing the solutions to the problems that i have solve
 4. [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/)
 5. [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 6. [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)
+7. [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
