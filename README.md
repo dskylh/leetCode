@@ -15,3 +15,4 @@ For future reference and storing the solutions to the problems that i have solve
 7. [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
 8. [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
 9. [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+10. [876. Middle of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
