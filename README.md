@@ -19,3 +19,4 @@ For future reference and storing the solutions to the problems that i have solve
 9. [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 10. [876. Middle of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 11. [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
+12. [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
