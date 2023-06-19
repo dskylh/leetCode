@@ -21,3 +21,4 @@ For future reference and storing the solutions to the problems that i have solve
 11. [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 12. [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
 13. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+14. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)
