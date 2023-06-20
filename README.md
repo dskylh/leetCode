@@ -2,7 +2,7 @@
 
 For future reference and storing the solutions to the problems that i have solved from LeetCode.
 
-(Arranged chronologically according to when I solved them.)
+(Arranged chronologically according to when I solved the problem.)
 
 ## Solved Problems:
 
