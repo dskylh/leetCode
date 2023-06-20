@@ -22,3 +22,8 @@ For future reference and storing the solutions to the problems that i have solve
 12. [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
 13. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 14. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)
+
+### Medium Problems
+
+1. [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+2. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
