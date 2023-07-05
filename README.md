@@ -30,3 +30,4 @@ For future reference and storing the solutions to the problems that i have solve
 2. [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 3. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 4. [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
+5. [155. Min Stack](https://leetcode.com/problems/min-stack)
