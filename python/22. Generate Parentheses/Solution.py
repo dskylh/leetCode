@@ -21,4 +21,4 @@ class Solution:
 
 
 sol = Solution()
-sol.generateParenthesis(2)
+sol.generateParenthesis(3)
