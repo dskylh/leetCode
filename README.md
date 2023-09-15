@@ -32,3 +32,4 @@ For future reference and storing the solutions to the problems that i have solve
 4. [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 5. [155. Min Stack](https://leetcode.com/problems/min-stack)
 6. [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
+7. [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
