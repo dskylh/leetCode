@@ -23,6 +23,7 @@ For future reference and storing the solutions to the problems that i have solve
 13. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 14. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram)
 15. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+16. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 
 ### Medium Problems
 
