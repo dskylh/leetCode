@@ -21,6 +21,3 @@ class Solution:
                         p1 += 1
         return res
 
-
-sol = Solution()
-sol.threeSum([-1, 0, 1, 2, -1, -4])
