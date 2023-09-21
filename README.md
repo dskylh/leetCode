@@ -36,3 +36,5 @@ For future reference and storing the solutions to the problems that i have solve
 7. [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 8. [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 9. [853. Car Fleet](https://leetcode.com/problems/car-fleet/)
+10. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+11. [15. 3Sum](https://leetcode.com/problems/3sum/)
